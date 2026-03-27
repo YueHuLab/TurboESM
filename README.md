@@ -268,8 +268,12 @@ ESM-2 15B (`esm2_t48_15B_UR50D`): 48 layers, 20 heads, head_dim=320.
 - [ ] Systematic speed/accuracy comparison against INT8 baseline
 
 ---
+
 ## weights download 
-https://huggingface.co/YueHuLab/TurboESM/blob/main/esm2_650M_turbo.pt
+
+# https://huggingface.co/YueHuLab/TurboESM/blob/main/esm2_650M_turbo.pt
+
+
 ## Acknowledgements
 
 - **ESM-2**: This project builds on [ESM-2](https://github.com/facebookresearch/esm) by Meta FAIR Protein Team, licensed under Apache 2.0.
